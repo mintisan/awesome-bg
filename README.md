@@ -36,12 +36,13 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 - 2023-[Noninvasive Glucose Sensing In Vivo](https://www.mdpi.com/1424-8220/23/16/7057)
 
 
-### Systems
+### Systems/Sensors
 
 - 2022-[Recent advances in optical sensors for continuous glucose monitoring](https://pubs.rsc.org/en/content/articlehtml/2022/sd/d1sd00030f)-11
 - 2022-[Highly integrated watch for noninvasive continual glucose monitoring](https://www.nature.com/articles/s41378-022-00355-5)-37
 - 2023-[On-body non-invasive glucose monitoring sensor based on high figure of merit (FoM) surface plasmonic microwave resonator](https://www.nature.com/articles/s41598-023-44435-6)
 - 2023-[A new generation of sensors for non-invasive blood glucose monitoring](https://e-century.us/files/ajtr/15/6/ajtr0150987.pdf)-1
+- 2023-[Wearable non-invasive glucose sensors based on metallic nanomaterials](https://www.sciencedirect.com/science/article/pii/S2590006423000984)-3
 
 ## Books
 
