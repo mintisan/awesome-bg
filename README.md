@@ -28,7 +28,15 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 
 ## Papers
 
+### Review
+
 - 2020-[Non-Invasive Blood Glucose Monitoring Technology: A Review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7731259/)-221
+
+
+### Systems
+
+- 2022-[Highly integrated watch for noninvasive continual glucose monitoring](https://www.nature.com/articles/s41378-022-00355-5)-37
+- 2023-[On-body non-invasive glucose monitoring sensor based on high figure of merit (FoM) surface plasmonic microwave resonator](https://www.nature.com/articles/s41598-023-44435-6)
 
 ## Books
 
