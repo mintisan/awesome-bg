@@ -1,4 +1,4 @@
-# Awesome PPG(Photoplethysmography)
+# Awesome BG(Blood Glucose)
 
 
 ![Awesome](https://awesome.re/badge.svg) ![GitHub stars](https://img.shields.io/github/stars/mintisan/awesome-bg.svg?style=social)
