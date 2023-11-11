@@ -31,7 +31,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 ### Review
 
 - 2020-[Non-Invasive Blood Glucose Monitoring Technology: A Review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7731259/)-221
-- 2020-[Review of non-invasive continuous glucose monitoring based on impedance spectroscopy](https://www.sciencedirect.com/science/article/abs/pii/S0924424720301278)
+- 2020-[Review of non-invasive continuous glucose monitoring based on impedance spectroscopy](https://www.sciencedirect.com/science/article/abs/pii/S0924424720301278)-57
 - 2022-[Blood glucose sensors and recent advances: A review](https://www.worldscientific.com/doi/10.1142/S1793545822300038)-30
 - 2023-[Noninvasive Glucose Sensing In Vivo](https://www.mdpi.com/1424-8220/23/16/7057)
 
